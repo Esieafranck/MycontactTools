@@ -4,7 +4,7 @@ MycontactTools
 Dans le compte du module d'IHM, il nous est demmandé de concevoir et de developper les IHMs d'une appliction web de gestion de contact.
 notre application web devra intégrer les interfaces suivantes:
 
-1- La création d'un contact et d'une adresse
+1- La création d'un contact et d'une adresse                                                                         
 2- La consultation d'un contact et de  adresses
 3- La modification des propriétés  d'un contact
 4- La modification des propriétés d'une adresse
